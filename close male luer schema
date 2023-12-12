@@ -1,0 +1,20 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "Product", 
+  "name": "Arisure Closed Male Luer",
+  "image": "https://yukonmedical.com/wp-content/uploads/2021/02/closed-male-lure-gallery-1.jpg",
+  "description": "The Arisure® CML is easy to use and completely needle-free. It forms a dry disconnect with any Arisure needle-free valve. It remains closed when not accessed, preventing accidental spills or discharge of hazardous drugs.  Dry disconnect with Arisure needle-free valve results in reduced exposure to harmful drug residue. Easy, luer lock connection with Arisure needle-free valve means safe and simple transfer of compounds. Mechanically closed when not accessed, preventing accidental leaks or spills. Microbiologically closed, reducing the risk of contamination. Maintains seal integrity, keeping all connections safe even when accessed multiple times. No special adapters means less time searching for parts and more time caring for your patient",
+  "brand": {
+    "@type": "Brand",
+    "name": "Arisure"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://yukonmedical.com/products/arisure-closed-male-luer/",
+    "priceCurrency": "USD",
+    "price": "",
+    "itemCondition": "https://schema.org/NewCondition"
+  }
+}
+</script>
